@@ -1,0 +1,44 @@
+.Moto1{
+background-image: url("../img/271037280_1.jpg");
+background-size: auto;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+.Moto2{
+  background-image: url("../img/15647411963449.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.Moto3{
+  background-image: url("../img/moto-1.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+}
+
+
+.fondo{
+  background:blue;
+}
+.borde{
+  border: 1px solid black;
+  height: 50px;
+  text-align-center;
+}
+
+img{
+
+
+
+}
+.color1{ background: #eeeeee;}
+.color2{ background: #fcc314;}
+.color3{ background: #94ac3c;}
+.color4{ background: #0000FF;}
+.color5{ background: #eeeeee;}
