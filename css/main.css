@@ -22,6 +22,12 @@ background-position: center;
 
 }
 
+.logo1{
+  background-image: url("../img/logo1.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 .fondo{
   background:blue;
