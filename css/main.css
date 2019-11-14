@@ -7,10 +7,9 @@ background-position: center;
 }
 .Moto2{
   background-image: url("../img/15647411963449.jpg");
-  background-size: auto;
-  background-repeat: no-repeat;
-  background-position: center;
-
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: 100% 100%;
 }
 
 .Moto3{
@@ -33,8 +32,6 @@ background-position: center;
   background:blue;
 }
 .borde{
-  border: 1px solid black;
-  height: 50px;
   text-align-center;
 }
 
