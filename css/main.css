@@ -1,24 +1,30 @@
 .Moto1{
-background-image: url("../img/271037280_1.jpg");
-background-size: auto;
-background-repeat: no-repeat;
-background-position: center;
+background-image: url("../img/fondo-verde.jpg");
+background-size: 100% 940%;
+background-repeat:no-repeat;
+background-position:center;
 
 }
+
 .Moto2{
-  background-image: url("../img/15647411963449.jpg");
+  background-image: url("../img/fondo-amarillo.jpg");
   background-repeat:no-repeat;
   background-position:center;
   background-size: 100% 100%;
 }
 
 .Moto3{
-  background-image: url("../img/moto-1.png");
-  background-size: auto;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url("../img/fondo-negro.jpg");
+  background-size: 100% 940%;
+  background-repeat:no-repeat;
+  background-position:center;
+}
 
-
+.FondoPrincipal{
+  background-image: url("../img/carretera.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: 100% 240%;
 }
 
 .logo1{
@@ -27,6 +33,16 @@ background-position: center;
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.Fondo2{
+  background-image: url("../img/Kawasaki-Logo.png");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: 100% 240%;
+}
+
+
+
 
 .fondo{
   background:blue;
@@ -40,6 +56,7 @@ img{
 
 
 }
+
 .color1{ background: #eeeeee;}
 .color2{ background: #fcc314;}
 .color3{ background: #94ac3c;}
